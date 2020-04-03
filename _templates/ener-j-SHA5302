@@ -22,5 +22,5 @@ There is a green LED above the USB socket; this comes on if either 13A socket is
 
 To disable the Green LED always use this template instead :
 ```json
-{""NAME"":""Ener-J 2-Gang "",""GPIO"":[17,0,0,0,0,21,18,0,22,0,0,0,0],""FLAG"":0,""BASE"":18}
+{"NAME":"Ener-J 2-Gang ","GPIO":[17,0,0,0,0,21,18,0,22,0,0,0,0],"FLAG":0,"BASE":18}
 ```
